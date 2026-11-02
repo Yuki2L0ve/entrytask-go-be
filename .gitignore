@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.workbuddy/
+.claude/
+.codex/
+.DS_Store
+AGENTS.md
+CLAUDE.md
